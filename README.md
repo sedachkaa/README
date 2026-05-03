@@ -9,4 +9,4 @@
 </p>
 
 ## About me
-[![Telegram](https://github.com/sedachkaa/sedachkaa/blob/1c12c6551702a83d0925b49be1b293b169b339aa/WorkFlows/snake.svg)](https://t.me/ksd2025)
+[![Telegram]()](https://t.me/ksd2025)
