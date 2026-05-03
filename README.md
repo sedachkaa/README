@@ -10,3 +10,4 @@
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ksd2025)
+[![Discord]()](https://discord.com/users/1238766925841170454)
