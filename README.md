@@ -9,4 +9,4 @@
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ksd2025)
+[![Telegram](https://github.com/sedachkaa/sedachkaa/blob/1c12c6551702a83d0925b49be1b293b169b339aa/WorkFlows/snake.svg)](https://t.me/ksd2025)
