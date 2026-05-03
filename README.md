@@ -1,4 +1,3 @@
-# README
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sedachkaa/README/blob/d62d77c7fa6f6c94403bbddefe5c30b7d3531d9c/WorkFlows/snake.svg" />
