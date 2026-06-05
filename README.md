@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hello! I'm sedachkaa ♡ </h1>
 
-Я **sedachkaa**, начинающий программист бекендер. Люблю кодить, не люблю мыться.
-
 <p align="center">
   <picture>
     <source media="https://github.com/sedachkaa/sedachkaa/blob/1c12c6551702a83d0925b49be1b293b169b339aa/WorkFlows/snake.svg" />
